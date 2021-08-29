@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/gbs/flutter_tutorial_02/BuildConfig.java
+ com.gbs.flutter_tutorial_02.BuildConfig
